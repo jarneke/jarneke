@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello! 👋
 
-<!--
-**jarneke/jarneke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jarne Eldrup, a passionate programmer currently studying and honing my skills in software development. 💻
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Intern at 2commit**: Currently, I'm interning at [2commit](https://2commit.be), an IT company in Kontich, Belgium.
+
+- **PowerApps Development**: During my internship, I'm focusing on creating innovative solutions using Microsoft's PowerApps platform.
+
+## Skills
+
+- **Programming Languages**: TypeScript, React / Next.js, Python
+- **Technologies**: PowerApps, Azure
+
+## Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/jarne-eldrup/)
+
+Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate.
